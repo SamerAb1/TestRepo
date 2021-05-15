@@ -7,7 +7,12 @@ public class test {
 		
 		
 		System.out.println("Hello world");
+<<<<<<< HEAD
 		System.out.println("Hello world (From Wafa)");
+=======
+		System.out.println("Ayman Test ;)");
+		
+>>>>>>> master
 		
 		
 		
