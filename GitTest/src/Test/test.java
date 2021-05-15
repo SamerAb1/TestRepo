@@ -7,8 +7,12 @@ public class test {
 		
 		
 		System.out.println("Hello world");
+<<<<<<< HEAD
 		System.out.println("Ayman Test ;)");
 		
+=======
+		System.out.println("Hello world (From Wafa)");
+>>>>>>> wafa-branch
 		
 		
 		
