@@ -14,5 +14,6 @@ public class test {
 
 		System.out.println("Samer Test1");
 		
+		System.out.println("Samer Test2");
 	}
 }
